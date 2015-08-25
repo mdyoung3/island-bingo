@@ -50,8 +50,8 @@ $(document).ready(function () {
         'crab',
         'cove',
         'coral',
-        'coast',
-        'clam bake',
+        'coast' /*,
+		'clam bake',
         'cape',
         'boogie board',
         'barnacle',
@@ -74,7 +74,7 @@ $(document).ready(function () {
         'paddleboat',
         'swimming',
         'kayak',
-        'kelp'
+        'kelp'*/
     ];
 
     function changeWord() {
