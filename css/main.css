@@ -10,7 +10,7 @@ body {
     background: #fff url(/img/Hawaii_Beaches-28.jpg);
 }
 .jumbotron {
-    background-color: rgba(238, 238, 238, 0.55);
+    background-color: rgba(238, 238, 238, 0.125);
 }
 input[type="submit"] {
     background-color: transparent;
